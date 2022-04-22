@@ -3,6 +3,11 @@
 - 🌱 Desenvolvedor web em formação
 - 💞️ Cursando tecnólogo na área de TI em uma das melhores faculdades do Estado de São Paulo, Universidade Paulista-UNIP.
 - 📫 Araraqura SP
+- contato
+-     adilsonsantos4@gmail.com
+- curricolo online
+-     linkedin 
+-     https://www.linkedin.com/in/dillsantos/
 - Cursos em andamento na Udemy
 -         Desenvolvimento web completo
 
