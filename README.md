@@ -6,7 +6,7 @@
 - contato
 -     adilsonsantos4@gmail.com
 - curricolo online
--     linkedin 
+- linkedin 
 -     https://www.linkedin.com/in/dillsantos/
 - Cursos em andamento na Udemy
 -         Desenvolvimento web completo
