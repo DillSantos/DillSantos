@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @DillSantos
-- 👀 Estou buscando conhecimento na area de desenvolvimento
-- 🌱 Atrualmente estou aprendendo a linguagem de programção, desenvolvimento webe e python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Bem vindo a minha humilde página, me chamo Adilson, aspirante a Desenvolvedor Web full
+- 👀 Conhcendo um pouco de javascript, amando!
+- 🌱 Desenvolvedor web em formação
+- 💞️ Cursando tecnólogo na área de TI em uma das melhores faculdades do Estado de São Paulo, Universidade Paulista-UNIP.
+- 📫 Araraqura SP
+- Cursos em andamento na Udemy
+-         Desenvolvimento web completo
 
 <!---
 DillSantos/DillSantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
